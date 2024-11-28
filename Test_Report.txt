@@ -1,0 +1,13 @@
+Dear,
+I have completed performance test on frequently used API for test app.
+Test executed for the below mentioned scenario in server 000.000.000.00
+
+150 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 10 And Total Concurrent API requested 600
+160 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 11 And Total Concurrent API requested 640
+180 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 12 And Total Concurrent API requested 720
+195 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 13 And Total Concurrent API requested 780
+199 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 13.267 And Total Concurrent API requested 796
+200 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 13.333 And Total Concurrent API requested 800
+300 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 20 And Total Concurrent API requested 1200
+1000 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 66 And Total Concurrent API requested 4000
+2000 Concurrent request with 1 loop count; Avg TPS for total samples is ~ 133 And Total Concurrent API requested 8000
